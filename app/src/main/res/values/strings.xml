@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Beemathon</string>
+    <string name="splash_screen">Tired! Let us bring food at your door step in just a few minutes. </string>
+    <string name="splash_screen2">Find and order food you love from our Restaurants.</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="create">Create</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+
+</resources>
